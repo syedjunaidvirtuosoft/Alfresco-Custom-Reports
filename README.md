@@ -21,4 +21,5 @@ Report is developed and tested on Alfresco 6 Community Version (Docker Based) bu
 * After restarting your Alfresco services login with Admin user and redirect to the report by clicking on the <b>Site User Access Report</b> on the dropdown at the Homepage.
 
 # Preview:
+![alt text](https://github.com/syedjunaidvirtuosoft/User-Access-Rights-Report/blob/main/Screenshots/screenshot.png?raw=true)
 
